@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RXperts</title>
+    <description>Bangladeshi open-source community of R practitioners and Data enthusiasts.</description>
+    <link>http://rxperts.github.io/rxperts-jekyll/</link>
+    <atom:link href="http://rxperts.github.io/rxperts-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Nov 2016 19:42:49 +0600</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 19:42:49 +0600</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>What is R?</title>
+        <description>
+&lt;h2 id=&quot;introduction-to-r&quot;&gt;Introduction to R&lt;/h2&gt;
+
+&lt;p&gt;R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories (formerly AT&amp;amp;T, now Lucent Technologies) by John Chambers and colleagues. R can be considered as a different implementation of S. There are some important differences, but much code written for S runs unaltered under R.&lt;/p&gt;
+
+&lt;p&gt;R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques, and is highly extensible. The S language is often the vehicle of choice for research in statistical methodology, and R provides an Open Source route to participation in that activity.&lt;/p&gt;
+
+&lt;p&gt;One of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. Great care has been taken over the defaults for the minor design choices in graphics, but the user retains full control.&lt;/p&gt;
+
+&lt;p&gt;R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-r-environment&quot;&gt;The R environment&lt;/h2&gt;
+
+&lt;p&gt;R is an integrated suite of software facilities for data manipulation, calculation and graphical display. It includes -&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;an effective data handling and storage facility,&lt;/li&gt;
+  &lt;li&gt;a suite of operators for calculations on arrays, in particular, matrices,&lt;/li&gt;
+  &lt;li&gt;a large, coherent, integrated collection of intermediate tools for data analysis,&lt;/li&gt;
+  &lt;li&gt;graphical facilities for data analysis and display either on-screen or on hardcopy, and&lt;/li&gt;
+  &lt;li&gt;a well-developed, simple and effective programming language which includes conditionals, loops, user-defined recursive functions and input and output facilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The term “environment” is intended to characterize it as a fully planned and coherent system, rather than an incremental accretion of very specific and inflexible tools, as is frequently the case with other data analysis software.&lt;/p&gt;
+
+&lt;p&gt;R, like S, is designed around a true computer language, and it allows users to add additional functionality by defining new functions. Much of the system is itself written in the R dialect of S, which makes it easy for users to follow the algorithmic choices made. For computationally-intensive tasks, C, C++ and Fortran code can be linked and called at run time. Advanced users can write C code to manipulate R objects directly.&lt;/p&gt;
+
+&lt;p&gt;Many users think of R as a statistics system. We prefer to think of it of an environment within which statistical techniques are implemented. R can be extended (easily) via packages. There are about eight packages supplied with the R distribution and many more are available through the CRAN family of Internet sites covering a very wide range of modern statistics.&lt;/p&gt;
+
+&lt;p&gt;R has its own LaTeX-like documentation format, which is used to supply comprehensive documentation, both on-line in a number of formats and in hardcopy.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Nov 2016 00:00:00 +0600</pubDate>
+        <link>http://rxperts.github.io/rxperts-jekyll/blog/2016/11/23/What-is-R</link>
+        <guid isPermaLink="true">http://rxperts.github.io/rxperts-jekyll/blog/2016/11/23/What-is-R</guid>
+        
+        
+        <category>R</category>
+        
+        <category>Introduction</category>
+        
+      </item>
+    
+  </channel>
+</rss>
