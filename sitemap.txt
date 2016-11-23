@@ -1,10 +1,10 @@
 
-http://rxperts.github.io/rxperts/rxperts.github.io/blog/
-http://rxperts.github.io/rxperts/rxperts.github.io/events/
-http://rxperts.github.io/rxperts/rxperts.github.io/feed.xml
-http://rxperts.github.io/rxperts/rxperts.github.io/
-http://rxperts.github.io/rxperts/rxperts.github.io/css/main.css
-http://rxperts.github.io/rxperts/rxperts.github.io/sitemap.txt
-http://rxperts.github.io/rxperts/rxperts.github.io/write/
+http://rxperts.github.io/rxperts.github.io/blog/
+http://rxperts.github.io/rxperts.github.io/events/
+http://rxperts.github.io/rxperts.github.io/feed.xml
+http://rxperts.github.io/rxperts.github.io/
+http://rxperts.github.io/rxperts.github.io/css/main.css
+http://rxperts.github.io/rxperts.github.io/sitemap.txt
+http://rxperts.github.io/rxperts.github.io/write/
 
-http://rxperts.github.io/rxperts/rxperts.github.io/blog/2016/11/23/What-is-R
+http://rxperts.github.io/rxperts.github.io/blog/2016/11/23/What-is-R
