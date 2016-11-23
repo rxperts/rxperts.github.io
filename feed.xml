@@ -3,10 +3,10 @@
   <channel>
     <title>RXperts</title>
     <description>Bangladeshi open-source community of R practitioners and Data enthusiasts.</description>
-    <link>http://rxperts.github.io/rxperts.github.io/</link>
-    <atom:link href="http://rxperts.github.io/rxperts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 20:21:41 +0600</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 20:21:41 +0600</lastBuildDate>
+    <link>/rxperts.github.io/</link>
+    <atom:link href="/rxperts.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Nov 2016 20:30:28 +0600</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 20:30:28 +0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -42,8 +42,8 @@
 &lt;p&gt;R has its own LaTeX-like documentation format, which is used to supply comprehensive documentation, both on-line in a number of formats and in hardcopy.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Nov 2016 00:00:00 +0600</pubDate>
-        <link>http://rxperts.github.io/rxperts.github.io/blog/2016/11/23/What-is-R</link>
-        <guid isPermaLink="true">http://rxperts.github.io/rxperts.github.io/blog/2016/11/23/What-is-R</guid>
+        <link>/rxperts.github.io/blog/2016/11/23/What-is-R</link>
+        <guid isPermaLink="true">/rxperts.github.io/blog/2016/11/23/What-is-R</guid>
         
         
         <category>R</category>
